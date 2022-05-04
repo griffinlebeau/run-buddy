@@ -10,5 +10,4 @@ A website that offers fitness training services.
 ## Website
 https://griffinlebeau.github.io/run-buddy/
 
-## Contribution
-Made with love by Griffin LeBeau 
+### @2019 Run Buddy, Inc
