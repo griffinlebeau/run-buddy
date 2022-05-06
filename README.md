@@ -12,3 +12,5 @@ https://griffinlebeau.github.io/run-buddy/
 
 ## Contribution
 Made with love by Griffin LeBeau 
+
+### @2019 Run Buddy, Inc
